@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">صلاتي حياتي</string>
+    <string name="fajr">الفجر</string>
+    <string name="chourouk">الشروق</string>
+    <string name="dohr">الظهر</string>
+    <string name="aser">العصر</string>
+    <string name="magreb">المغرب</string>
+    <string name="icha">العشاء</string>
+    <string name="ta7did">جاري تحديد المكان</string>
+    <string name="barmajat">رياض الفرحاتي</string>
+    <string name="textMakan">تم تحديد مكانك و جاري جلب مواقيت الصلاة</string>
+</resources>
